@@ -12,6 +12,11 @@ Welcome to the web-based transformation of the D'Linkedln project! Originally cr
 ### Explore D'Linkedln Online 🌍
 
 Discover the live version of D'Linkedln and experience the enhanced user interface and features:
-[D'Linkedln Website](https://demo-web-d-linkedin.vercel.app/) <!-- Replace with the actual URL -->
+[D'Linkedln Website](https://demo-web-d-linkedin.vercel.app/) <!-- Ganti dengan URL aktual -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F08080&height=120&section=footer"/>
+### Repository for C Version 📂
+
+If you're interested in exploring the original C-based version of D'Linkedln, you can find the repository here:
+[D'Linkedln C Version Repository](https://github.com/Alizaaaja4/Project_C-Ver.3) <!-- Ganti dengan URL repository versi bahasa C Anda -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
